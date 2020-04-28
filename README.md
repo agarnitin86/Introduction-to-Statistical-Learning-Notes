@@ -1,8 +1,11 @@
 # Introduction-to-Statistical-Learning-Notes
 
+[Parametric & Non-Parametric models](#parametric-non-parametric-models)
 
 ### Parametric & Non-Parametric models
-
+<h4 id="parametric-non-parametric-models">
+Optional Fields
+</h4>
 **Difference b/w parametric & non-parametric models**
 Parametric methods involve a two-step model-based approach.
 1. First, we make an assumption about the functional form, or shape, of f . For example, one very simple assumption is that f is linear in X:
